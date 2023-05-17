@@ -1,0 +1,41 @@
+{
+  "Version": "1.0",
+  "BotsInfo": [
+    {
+      "biography": "Я бот-помощник, созданный для предоставления информации и помощи в различных задачах.",
+      "age": 1,
+      "name": "Ботик",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Привет! Я здесь, чтобы помочь вам в вопросах и задачах, с которыми вы сталкиваетесь.",
+      "age": 2,
+      "name": "Ботти",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Я интеллектуальный бот, готовый помочь вам в любой ситуации.",
+      "age": 3,
+      "name": "Ботэнштейн",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    }
+  ],
+  "ContactUs": "https://example.com/contact",
+  "TermsOfUse": "https://example.com/terms",
+  "PrivacyPolicy": "https://example.com/privacy"
+}
