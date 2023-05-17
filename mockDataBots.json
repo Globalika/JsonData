@@ -2,9 +2,9 @@
   "Version": "1.0",
   "BotsInfo": [
     {
-      "biography": "Я бот-помощник, созданный для предоставления информации и помощи в различных задачах.",
-      "age": 1,
-      "name": "Ботик",
+      "biography": "Childhood sweetheart: A person they shared innocent, happy memories with during their early years.",
+      "age": 24,
+      "name": "Luna",
       "photos": [
         "https://example.com/avatar.jpg",
         "https://example.com/photo1.jpg",
@@ -13,9 +13,9 @@
       "avatar": "https://example.com/avatar.jpg"
     },
     {
-      "biography": "Привет! Я здесь, чтобы помочь вам в вопросах и задачах, с которыми вы сталкиваетесь.",
-      "age": 2,
-      "name": "Ботти",
+      "biography": "College love interest: A person they connected with intellectually and emotionally during their time at university.",
+      "age": 24,
+      "name": "Orion",
       "photos": [
         "https://example.com/avatar.jpg",
         "https://example.com/photo1.jpg",
@@ -24,9 +24,185 @@
       "avatar": "https://example.com/avatar.jpg"
     },
     {
-      "biography": "Я интеллектуальный бот, готовый помочь вам в любой ситуации.",
-      "age": 3,
-      "name": "Ботэнштейн",
+      "biography": "Adventurous traveler: A free-spirited individual they encountered while exploring the world.",
+      "age": 24,
+      "name": "Aurora",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Passionate artist: A creative soul who captivated them with their talent and unique perspective on life.",
+      "age": 24,
+      "name": "Nova",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Successful professional: A driven, ambitious individual who achieved great success in their career and inspired admiration.",
+      "age": 24,
+      "name": "Atlas",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Kind-hearted caregiver: Someone who exudes warmth, compassion, and understanding, making them feel deeply cared for.",
+      "age": 24,
+      "name": "Seraphina",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Confident charmer: A person with magnetic charisma and an irresistible personality that draws people in.",
+      "age": 24,
+      "name": "Phoenix",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "A mysterious stranger in a bar: A captivating and enigmatic individual who piques their curiosity during a chance encounter.",
+      "age": 24,
+      "name": "Apollo",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Fitness enthusiast: A person dedicated to maintaining their physical health, and motivating others with their discipline and energy.",
+      "age": 24,
+      "name": "Artemis",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Intellectual conversationalist: Someone who engages in thought-provoking discussions and challenges them to see things from new perspectives.",
+      "age": 24,
+      "name": "Gaia",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Long-lost friend: A reconnected companion from the past who rekindles fond memories and brings a sense of nostalgia.",
+      "age": 24,
+      "name": "Zenith",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "ПFearless adventurer: A daring individual who embraces life's challenges and encourages them to step outside their comfort zone.",
+      "age": 24,
+      "name": "Solstice",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Witty humorist: A person who keeps them entertained with clever jokes and a sharp sense of humor, making them feel at ease.",
+      "age": 24,
+      "name": "Vega",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Empathetic listener: Someone who provides emotional support and understanding, creating a strong bond of trust and vulnerability.",
+      "age": 24,
+      "name": "Electra",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "First school nurse: A nurturing and caring figure from their early school years who made them feel safe and comforted.",
+      "age": 24,
+      "name": "Nebula",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Charismatic leader: A person who exudes confidence and has the ability to inspire and motivate others, drawing them in with their magnetic personality.",
+      "age": 24,
+      "name": "Aether",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Artistic muse: A creative individual who sparks their imagination and encourages them to explore and express their artistic side.",
+      "age": 24,
+      "name": "Zephyr",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "World traveler: Someone who has experienced various cultures and shares captivating stories of their adventures, broadening their perspective.",
+      "age": 24,
+      "name": "Lyra",
+      "photos": [
+        "https://example.com/avatar.jpg",
+        "https://example.com/photo1.jpg",
+        "https://example.com/photo2.jpg"
+      ],
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "biography": "Passionate activist: A person dedicated to making a difference in the world, inspiring them to engage in social and environmental issues.",
+      "age": 24,
+      "name": "Celeste",
       "photos": [
         "https://example.com/avatar.jpg",
         "https://example.com/photo1.jpg",
